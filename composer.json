@@ -1,0 +1,14 @@
+{
+    "name": "thangngoc89/test-laravel-date",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Khoa Nguyen",
+            "email": "khoa02031995@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "jenssegers/date": "dev-master"
+    }
+}
